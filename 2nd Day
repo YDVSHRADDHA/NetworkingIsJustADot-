@@ -1,0 +1,9 @@
+In the second module of this course, we'll explore the network layer in more depth. 
+>We'll learn about the IP addressing scheme and how subnetting works. 
+>We'll explore how encapsulation works and how protocols such as ARP allow different layers of the network to communicate. 
+>We'll also cover the basics of routing, routing protocols, 
+>and how the Internet works. By the end of this module,
+>you'll be able to describe the IP addressing scheme, 
+>understand how subnetting works,
+>perform binary math to describe subnets,
+>and understand how the Internet works.

@@ -1,0 +1,9 @@
+In the third module of this course,
+
+>we'll explore the transport and application layers. 
+
+>By the end of this module, 
+    >>you'll be able to describe TCP ports and sockets, 
+    >>identify the different components of a TCP header, 
+    >>show the difference between connection-oriented and connectionless protocols,
+    >>and explain how TCP is used to ensure data integrity.
